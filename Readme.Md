@@ -12,23 +12,23 @@ A simple Youtube download project which can download a single video or multiple 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/sudomanoj/Pyrate-YT.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Pyrate-YT
 ```
 
 Install dependencies
 
 ```bash
-  npm install
+  pip install -r requirements.txt
 ```
 
-Start the server
+Run Code 
 
 ```bash
-  npm run start
+  python pyrateyt.py -h
 ```
