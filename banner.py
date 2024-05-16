@@ -14,7 +14,7 @@ def banner():
    
    			PYRATE-YT - "A simple youtube downloader"
    
-   			Usage: ytdownloader [options] [url]
+   			Usage: python pyrateyt.py [options] [url]
    			Version: 1.0.0
    
    Options:

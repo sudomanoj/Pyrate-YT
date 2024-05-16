@@ -32,3 +32,6 @@ Run Code
 ```bash
   python pyrateyt.py -h
 ```
+Code Interface
+
+![Interface](./images/interface.png)

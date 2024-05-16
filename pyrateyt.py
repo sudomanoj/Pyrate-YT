@@ -13,12 +13,9 @@ current_dir = os.getcwd()
 
 def main():
     arguments = sys.argv[1:]
-    print(arguments)
     if len(arguments) == 2:
     	url = arguments[1]
     	cleaned_url = url_validation(url)
-    	print(type(cleaned_url))
-    	print(cleaned_url)
     if len(arguments) == 0:
         banner()
     elif arguments[0] in ['-h', '--help']:
